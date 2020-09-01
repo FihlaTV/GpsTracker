@@ -1,4 +1,4 @@
-![gpstracker](https://raw.githubusercontent.com/nickfox/GpsTracker/master/gpstracker_small.png)Gps Tracker v5.1.0
+![gpstracker](https://raw.githubusercontent.com/nickfox/GpsTracker/master/gpstracker_small.png)Gps Tracker v5.1.4
 -------------
 
 ##### Google Map Gps Cell Phone Tracker
@@ -31,6 +31,30 @@ https://www.websmithing.com/2014/01/20/quick-start-guide-for-gpstracker-3/
 *************
 
 #### Changelog
+
+Jan 25, 2018 - v5.1.4
+
+Updated android client to android studio 3.0.1 and SDK 26. Please note that if you use Google maps, you now need to get an API key from Google.
+
+https://developers.google.com/maps/documentation/javascript/get-api-key
+
+*************
+
+Jun 3, 2017 - v5.1.3
+
+Got rid of help forum, it cut my adsense revenue in half.
+
+*************
+
+Jul 11, 2016 - v5.1.2
+
+Updating documentation to show new help forum.
+
+*************
+
+Apr 2, 2016 - v5.1.1
+
+Updated gradle in android client
 
 *************
 
